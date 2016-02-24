@@ -57,6 +57,7 @@ if (Meteor.isServer) {
       if(match[1] === 'og:image' || match[1] === 'twitter:image') meta.image = match[2];
       if(match[1] === 'og:title' || match[1] === 'twitter:title') meta.title = match[2];
       if(match[1] === 'og:url') meta.url = match[2];
+      if(match[1] === 'author') meta.author = match[2];
     }
     return meta;
   };
