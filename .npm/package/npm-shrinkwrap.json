@@ -1,7 +1,9 @@
 {
   "dependencies": {
     "he": {
-      "version": "0.5.0"
+      "version": "0.5.0",
+      "resolved": "https://registry.npmjs.org/he/-/he-0.5.0.tgz",
+      "from": "he@0.5.0"
     }
   }
 }
