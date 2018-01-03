@@ -1,9 +1,10 @@
 {
+  "lockfileVersion": 1,
   "dependencies": {
     "he": {
       "version": "0.5.0",
       "resolved": "https://registry.npmjs.org/he/-/he-0.5.0.tgz",
-      "from": "he@0.5.0"
+      "integrity": "sha1-LAX/rvkLaOhg8/0rVO9YCYknfuI="
     }
   }
 }
